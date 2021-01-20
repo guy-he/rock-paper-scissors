@@ -1,0 +1,18 @@
+        for (int i = 0; i < 3; i++) {
+            int anm = r.nextInt(3) + 1;
+            switch (anm) {
+                case 1:
+                    System.out.println("niyar");
+                    break;
+                case 2:
+                    System.out.println("even");
+                    break;
+                case 3:
+                    System.out.println("misparaym");
+                    break;
+            }
+
+        }
+
+    }
+}
